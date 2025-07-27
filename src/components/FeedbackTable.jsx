@@ -113,7 +113,7 @@ const FeedbackTable = () => {
         >
           Next
         </button>
-        <button onClick={handleLogout} className=" gap-2 border-2 border-red-500 text-red-500 bg-transparent hover:bg-red-500 hover:text-white py-2 px-2   rounded-xl">Logout</button>
+       
       </div>
     </div>
   );
